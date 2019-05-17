@@ -5,6 +5,7 @@
   许镫允： Qt 界面交互，功能调用等
 ## Release
 [可执行文件下载][1]
+
 ##程序界面截图
 ![运行界面截图][2]
 ## 程序功能描述
@@ -23,4 +24,4 @@
 
  
   [1]: https://github.com/qisikai/JLU_homework_v1/tree/master/docs
-  [2]: https://github.com/qisikai/JLU_homework_v1/tree/master/docs/1.png
+  [2]: https://raw.githubusercontent.com/qisikai/JLU_homework_v1/master/docs/1.png
